@@ -1,18 +1,18 @@
 # Sales-Prediction-with-Machine-learning
 The Sales Prediction with Machine Learning project is aimed at developing a predictive model that forecasts sales based on advertising expenditures across various channels. Leveraging machine learning algorithms, this project enables businesses to optimize marketing strategies, allocate resources effectively, and maximize revenue potential
-# Key Objectives:
+## Key Objectives:
 # Data-driven Decision Making:
 Leverage historical data on advertising expenditures across various channels to derive actionable insights into consumer behavior and sales trends.
-# Optimized Resource Allocation: 
+## Optimized Resource Allocation: 
 Enable businesses to optimize marketing budgets by identifying high-impact advertising channels and target audience segments.
-# Predictive Accuracy:
+## Predictive Accuracy:
 Developed and deploy robust machine learning models capable of accurately forecasting sales, facilitating effective sales planning and revenue projection.
-# Project Features:
-# Data Collection and Preprocessing:
+## Project Features:
+## Data Collection and Preprocessing:
 Gathered and preprocessed historical data on advertising expenditures, ensuring data integrity and consistency for subsequent analysis.
-# Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 Visualize and analyze relationships between advertising channels and sales figures to uncover patterns, correlations, and potential predictors.
-# Feature Engineering:
+## Feature Engineering:
 Engineer relevant features and transformations to enhance model performance and capture nuanced relationships within the data.
 # Model Selection and Training:
 Implemented a variety of regression models, including Linear Regression, Ridge Regression, Lasso Regression, and Random Forest Regression, to identify the most suitable model for sales prediction.
