@@ -17,7 +17,6 @@ Sales Prediction with Machine Learning is a comprehensive project designed to as
 
 ## Target Audience:
 - **Business Stakeholders:** Provide data-driven insights for strategic planning, resource allocation, and revenue optimization.
-- **Data Scientists and Analysts:** Explore advanced machine learning techniques and contribute to model development and optimization.
 - **Marketing and Sales Teams:** Refine advertising strategies, optimize target audience segmentation, and enhance campaign performance.
 
 ## Contribution and Collaboration:
